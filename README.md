@@ -9,7 +9,7 @@ If you want to list all your followers:
 https://www.instagram.com/your_username/followers/
 
 If you want to list all your following: 
-https://www.instagram.com/your_username/followers/
+https://www.instagram.com/your_username/following/
 
 ### 2 - Open your browser console window
 ### 3 - Paste the JS code in this repository
