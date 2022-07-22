@@ -1,4 +1,4 @@
-﻿people = ""; 
+people = ""; 
 count=0; 
 total=parseInt(prompt("How much people?"))-1; 
 done=false;
