@@ -15,3 +15,5 @@ https://www.instagram.com/your_username/following/
 ### 3 - Paste the JS code in this repository
 ### 4 - You will see a prompt window, asking "How much?". Type the total followers/following you have, and press Enter.
 ### 5 - Just wait, your console will make all work for you :-)
+
+Now you can use a spreadsheet app for compare all results by the way you want. 
